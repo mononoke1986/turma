@@ -2,13 +2,13 @@
 .container{
     background-image: url('profile 1.jpg');
     background-repeat: no-repeat;
-    background-size: 100px 100px;
+    background-size: 200px 200px;
     background-origin: border-box;
     padding: 40px;
-    border: 10px solid rgb(241, 96, 217);
+    border: 1px solid rgb(241, 96, 217);
     border-style: dashed;
-    width : 400px;
-    height : 400px;
+    width : 200px;
+    height : 200px;
   }
 
 .body {
