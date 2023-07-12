@@ -4,3 +4,91 @@
 <div aling ="center">
   <img src = "https://github.com/mononoke1986/turma/assets/108529000/db283d03-858e-48a9-b945-0994a34f9f85" width="300px"/>
 </div>
+
+<!DOCTYPE html>
+<html lang="pt-brasil">
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1"/>
+    <meta name="carreira" content="Minha caminada">
+    <meta name="Autor" content="Tatiana Vega Ahumada"
+
+    <title> Curriculo</title> 
+
+    <link href="style.css" rel= "stylesheet" type="text/css" >
+
+</head>
+
+<body>
+    
+    <div class= "container"></div>   
+    
+    <h1>Tatiana Vega Ahumada</h1>
+
+    <h1>Objetivos</h1>
+
+        <p>Ser programadora</p>
+
+        <p>Fazer transcição de carreira</p>
+
+        <p>trabalhar com algumas destas ferramentas: html, css, java. Front-end ou back-end</p>
+    
+    <h2>Resumo</h2>
+
+        <p1>Programadora motivada e autodidacta, criando minha carreira 
+    de mano com o programa ElasNaTech em parceria com a JA Brasil. Apasionada pela programação e com habilidades 
+    no campo da comunicação e os idiomas; no ensino na preparação de aula e material didatico
+    online e na criaçao criativa de indumentaria. Estou procurando uma oportunidade para iniciar 
+    minha carreira profissional no campo do desenvolvimento de software.</p1>
+    
+    <h2>Experiência profissional</2>
+
+        <h4>Professora de Letras: espanhol e português como línguas estrangeiras, 2022-atual, Brasil</h4>
+        <h4>Tecnico profissional em Designer e criação de indumentaria, 2014-1016, Colômbia</h4>
+    
+    <h2>Educação</h2>
+
+            <p2>Licenciatura em Espanhol e Português como línguas estrangeiras
+            Letras: espanhol e português como línguas estrageiras
+            Universidade Federal da Integração Latino-Americana (UNILA), 2021</p2>
+
+            <p2>Tecnico Profissional em Designer e criação de indumentaria
+            Coorporación Universitaria Nacional (CUN), 2014</P2>
+
+            <p2>Idiomas: Espanhol (avanzado), português (avanzado), Chino (básico)</p2>
+    
+    
+    <h2>Competências tecnicas</h2>
+
+                    <h3>Lenguagens de programação:</h3>
+
+                    [Lista de lenguagens de programação que conheço, por exemplo: Java, Python, JavaScript]
+                    
+                    
+                    <h3>Ferramentas de desenvolvimento:</h3>
+                    
+                    [Mencionar as ferramentas de desenvolvimento com as que esta familiarizado, como IDEs, control de versões, etc.]
+                    Outros conhecimentos: [Qualquer outra habilidade técnica relevante, como frameworks, sistemas operativos, etc.]
+                    
+                    <h3>Projetos destacados:</h3>
+                    
+                    [Nome do projeto]: Descripção curta do projeto e tua contribução a ele. Tenho que mencionar projetos pessoais, projetos 
+                    académicos ou colaboraciones com outros desenvolvedores.
+                    
+                    <h2>Experiência profissional:</h2>
+                    
+                    <b>Estou construindo minha experiencia profissional específica em programação, mas tenho feito projetos e tarefas relacionadas com a programação 
+                        durante meus estudos.</b>
+                        
+                    <h3><br>Certificações:<br></h3>
+                    
+                    [Nome da certificação]: [Institução emisora], [Ano de obtenção]
+                    
+                    <h3>Referências:</h3>
+                    
+                    <p>Disponiveis por solicitude.</p>
+    
+
+</body>
+</html>
