@@ -1,0 +1,52 @@
+
+.container {
+    background-image: url('profile 1.jpg');
+    background-repeat: no-repeat;
+    background-size: 200px 200px;
+    background-origin: content-box;
+    padding: 5px;
+    border: 1px solid rgb(241, 96, 217);
+    border-style: dashed;
+    width : 200px;
+    height : 200px;
+  }
+
+body {
+
+    background-attachment: scroll;
+    background: -webkit-linear-gradient(rgb(250, 252, 250), rgb(235, 163, 175));
+    background: -moz-linear-gradient(rgb(250, 252, 250), pink);
+    background: -o-linear-gradient(rgb(250, 252, 250), pink);
+    height: 100 vh;
+}
+
+
+h1 {
+
+  color: #935615
+  
+}
+
+h2 {
+
+  color:  #935615
+}
+
+h3 {
+
+  color:  #cd7018
+}
+h4 {
+
+  font-style: italic;
+}
+
+b {
+
+  font-style: italic;
+}
+
+p {
+
+  font-style: italic;
+}
