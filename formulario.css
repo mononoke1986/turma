@@ -14,7 +14,7 @@ body{
 
 }
 
-h1 {
+body h1 {
 
     background-color: #242513;
     display: flex;
