@@ -1,6 +1,6 @@
 
 .container {
-    background-image: url('profile 1.JPG');
+    background-image: url('profile\ 1.jpg');
     background-repeat: no-repeat;
     background-size: 200px 200px;
     background-origin: content-box;
