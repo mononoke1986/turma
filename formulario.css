@@ -8,10 +8,10 @@ body {
 
     font-family: Arial, Helvetica, sans-serif;
     background-color: blueviolet;
-    display: ;
-    justify-content: ;
-    align-items: ;
-    min-height: ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
 }
 
 form {
