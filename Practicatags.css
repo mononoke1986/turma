@@ -3,4 +3,51 @@
 
     color: #FF5733;
     font-weight: bold;
+    border: 
+}
+
+h2 {
+
+    color:
+    font-weight: bolder;
+    width: 50%;
+    height: 50px;
+    border-width: ;
+    border-style:double-button;
+    border-color: ;
+    
+
+}
+
+.padding {
+
+    padding: 26px;
+    border-top: 10px solid burlywood;
+
+}
+
+.margin {
+
+    
+    margin: 50px 0 20px 100px;
+
+}
+
+.borda {
+
+    border-top-style: solid;
+    border-top-width: 10px;
+    border-top-color:aqua;
+    
+    /* border-top: 10px solid aqua. 
+    resume las anteriores*/
+    
+    border-top: 10px solid rgba(233, 133, 133, 0.966);  
+    border-bottom: 10px solid hsl(0, 87%, 20%); 
+    border-left: 25px 10px solid #26c09f; 
+
+    /*border: 10px solid red; recoge 
+    todos los anteriores*/
+
+    padding: 10px;
 }
