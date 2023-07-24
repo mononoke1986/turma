@@ -38,7 +38,7 @@ h2 {
     border-top-style: solid;
     border-top-width: 10px;
     border-top-color:aqua;
-    
+
     /* border-top: 10px solid aqua. 
     resume las anteriores*/
     
@@ -50,4 +50,9 @@ h2 {
     todos los anteriores*/
 
     padding: 10px;
+}
+
+.outline {
+
+    outline: 5px dashed red;
 }
