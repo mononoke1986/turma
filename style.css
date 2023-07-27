@@ -18,19 +18,34 @@ body {
     background: -moz-linear-gradient(rgb(250, 252, 250), pink);
     background: -o-linear-gradient(rgb(250, 252, 250), pink);
     height: 100 vh;
-}
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 80%;
+    margin: auto;
+    color: #444;
+    margin-bottom: 56px;
+
+  }
+
 
 
 h1 {
 
-  color: #935615
-  font-style: 
+  text-align: center;
+  margin: auto;
+  color: #935615;
+  width: 500px;
+  font-size: 40px;
+  
   
 }
 
 h2 {
 
-  color:  #935615
+  color:  #935615;
+  border-bottom: 3px solid;
+  padding: 12px;
+  margin-top: 48px;
+  margin-bottom: 12px;
 }
 
 h3 {
@@ -50,4 +65,78 @@ b {
 p {
 
   font-style: italic;
+}
+
+ul {
+
+  padding-left: 0;
+}
+li {
+
+  list-style-position: inside;
+}
+
+.center {
+
+  text-align: left;
+  font-style: italic;
+  font-size: 1%;
+  
+}
+
+a{
+  text-decoration: none;
+}
+
+a:hover{
+
+  text-decoration: underline;
+}
+
+* {
+
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.bars__menu {
+
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%) scale(2);
+  cursor: pointer;
+}
+
+.bars__menu span {
+
+  display: block;
+  width: 100%;
+  height: 2px;
+  background: #9a00bf;
+  margin-top: 6px;
+  transition: all 600ms;
+  transform-origin: 0px 100%;
+
+}
+
+.line1__bars-menu {
+
+  transform: rotate(45deg) 
+  translate(-2px 1px);
+}
+
+.line2__bars-menu {
+
+  opacity: 0;
+  margin-left: -30px;
+}
+
+
+.line3__bars-menu {
+
+  transform: rotate(-45deg);
+  translate: (-4px, 2px);
 }
